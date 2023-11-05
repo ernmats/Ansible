@@ -1,5 +1,5 @@
 ---
- - hosts: all
+ - hosts: 20.5.9.12
    tasks:
    - name: hostname
      debug:
